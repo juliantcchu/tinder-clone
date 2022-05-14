@@ -31,7 +31,9 @@ const ChatList = ({title, callEnabled}) => {
         />
    
     ) : (
-        <Text>No Matches Yet</Text>
+        <View style={{alignItems:'center', justifyContent:'center', height:'100%'}}>
+            <Text style={{fontSize:20, fontFamily:'bold'}}>No Friends Yet</Text>
+        </View>
     );
 };
 

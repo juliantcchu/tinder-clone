@@ -8,7 +8,7 @@ const ChatScreen = () => {
 
   return (
     <SafeAreaView style={{backgroundColor:'white'}}>
-      <ChatList />
+      <Text>Create Event Page</Text>
     </SafeAreaView>
   );
 };

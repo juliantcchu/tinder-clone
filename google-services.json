@@ -1,37 +1,37 @@
 {
   "project_info": {
-    "project_number": "769985952565",
-    "project_id": "tinder-clone-925f2",
-    "storage_bucket": "tinder-clone-925f2.appspot.com"
+    "project_number": "61638433560",
+    "project_id": "foodie-b1cab",
+    "storage_bucket": "foodie-b1cab.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:769985952565:android:8961a3434d270bcbc42a7c",
+        "mobilesdk_app_id": "1:61638433560:android:9b5f01c430e1a266fc1c6d",
         "android_client_info": {
-          "package_name": "host.exp.epxonent"
+          "package_name": "host.exp.exponent"
         }
       },
       "oauth_client": [
         {
-          "client_id": "769985952565-cpkatr7hpkmftlesi3uejvohcce09a55.apps.googleusercontent.com",
+          "client_id": "61638433560-s2nnt0facvnecjeipvn33l866lj0h4hn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD67iroYo2MmEkZ4gz87Rtwega3DIvbLkE"
+          "current_key": "AIzaSyCxvhLIiWLvg37hUBWgkF0DxUPy5sY2u-o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "769985952565-cpkatr7hpkmftlesi3uejvohcce09a55.apps.googleusercontent.com",
+              "client_id": "61638433560-s2nnt0facvnecjeipvn33l866lj0h4hn.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "769985952565-nndicf6ob3lenla8qjskqb7bp0i666fj.apps.googleusercontent.com",
+              "client_id": "61638433560-olrfh6j9fgi51assbidkgu5utchltcii.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "host.exp.exponent"

@@ -9,10 +9,10 @@ LogBox.ignoreAllLogs();
 
 export default function App() {
   return (
-    <NavigationContainer>
-      <AuthProvider>
-        <StackNavigator />
-      </AuthProvider>
-    </NavigationContainer>
+      <NavigationContainer>
+        <AuthProvider>
+          <StackNavigator />
+        </AuthProvider>
+      </NavigationContainer>
   );
 }

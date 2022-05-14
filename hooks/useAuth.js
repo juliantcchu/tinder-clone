@@ -9,8 +9,8 @@ const AuthContext = createContext({});
 
 const config = {
     // use env
-    iosClientId: "769985952565-nndicf6ob3lenla8qjskqb7bp0i666fj.apps.googleusercontent.com",
-    androidClientId: "769985952565-cpkatr7hpkmftlesi3uejvohcce09a55.apps.googleusercontent.com",
+    iosClientId: "61638433560-olrfh6j9fgi51assbidkgu5utchltcii.apps.googleusercontent.com",
+    androidClientId: "61638433560-s2nnt0facvnecjeipvn33l866lj0h4hn.apps.googleusercontent.com",
     scopes: ["profile", "email"], 
     permission: ["public_profile", "email", "gender", "location"],
 }
